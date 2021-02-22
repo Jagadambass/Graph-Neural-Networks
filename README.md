@@ -1,5 +1,5 @@
 <p align="center">
-  <img width = "600" height = "300" src="https://github.com/EdisonLeeeee/GraphGallery/blob/master/imgs/graphgallery.svg" alt="logo"/>
+  <img width = "600" height = "300" src="https://github.com/Jagadambass/Graph-Neural-Networks/blob/main/imgs/graphgallery.svg" alt="logo"/>
   <br/>
 </p>
 
