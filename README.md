@@ -20,7 +20,8 @@
     <img src="https://badge.fury.io/py/graphgallery.svg" alt="pypi">
   </a>       
   <a href="https://github.com/Jagadambass/Graph-Neural-Networks/blob/main/LICENSE">
-    <img src="https://img.shields.io/github.com/Jagadambass/Graph-Neural-Networks" alt="license">
+    <img src="https://img.shields.io/github.com//license/Jagadambass/Graph-Neural-Networks" alt="license">
+    
   </a>       
 </p>
 
