@@ -19,8 +19,8 @@
   <a href="https://pypi.org/project/graphgallery/">
     <img src="https://badge.fury.io/py/graphgallery.svg" alt="pypi">
   </a>       
-  <a href="https://github.com/EdisonLeeeee/GraphGallery/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/EdisonLeeeee/GraphGallery" alt="license">
+  <a href="https://github.com/Jagadambass/Graph-Neural-Networks/blob/main/LICENSE">
+    <img src="https://img.shields.io/github.com/Jagadambass/Graph-Neural-Networks" alt="license">
   </a>       
 </p>
 
@@ -32,12 +32,12 @@ We have integrated the **Adversarial Attacks** in this project, examples please 
 
 # 🚀 Installation
 ```bash
-pip install -U graphgallery
+pip install -U Graph-Neural-Networks
 ```
 or
 ```bash
-https://github.com/EdisonLeeeee/GraphGallery.git
-cd GraphGallery
+https://github.com/Jagadambass/Graph-Neural-Networks.git
+cd Graph-Neural-Networks
 pip install -e .
 ```
 GraphGallery has been tested on:
@@ -48,12 +48,10 @@ GraphGallery has been tested on:
 + DGL 0.5.2, 0.5.3
 
 # 🤖 Implementations
-Please refer to the [examples](https://github.com/EdisonLeeeee/GraphGallery/blob/master/examples/) directory.
+Please refer to the [examples](https://github.com/Jagadambass/Graph-Neural-Networks/) directory.
 (The examples are updating...)
 
 # ⚡ Quick Start on GNNs
-## Datasets
-more details please refer to [GraphData](https://github.com/EdisonLeeeee/GraphData).
 ## Example of GCN
 ```python
 from graphgallery.gallery import GCN
